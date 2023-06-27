@@ -62,3 +62,4 @@ if cont == True:
             balance()
         elif deystvia == "выход":
             break
+# Всем привет
